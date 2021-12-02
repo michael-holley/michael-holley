@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michael-holley
 - 👀 I’m interested in basically anything tech related
-- 🌱 I’m currently learning python and continuing to get better at bash
+- 🌱 I’m currently learning python and C while continuing to get better at bash
 - 💞️ I’m looking to collaborate on anything. Learning is important and the best way to learn is to do. 
 
 <!---
